@@ -22,7 +22,8 @@ TUGAS PERTEMUAN 7
 1. AffineChipper.py
 ![img](ss/ss1.png)
 
+
 2. BreakAffine.py
 ![img](ss/ss2.png)
 
-Link Github : 
+Link Github : https://github.com/anandaprascaapppandi/Pertemuan7
