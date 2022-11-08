@@ -7,6 +7,9 @@
             <td>Ananda Prasca Appandi</td>
         </tr>
         <tr>
+            <td>Kelas</td>
+            <td>TI.20.A1</td>
+        <tr>
             <td>NIM</td>
             <td>312010157</td>
         </tr>
@@ -21,7 +24,6 @@ TUGAS PERTEMUAN 7
 
 1. AffineChipper.py
 ![img](ss/ss1.png)
-
 
 2. BreakAffine.py
 ![img](ss/ss2.png)
